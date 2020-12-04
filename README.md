@@ -13,8 +13,13 @@ xgboost version 1.1.1,
 shap version 0.35.0,
 
 ## Contents
+
 data - raw csv file for startup data
+
 figures - EDA images and feature importance figures
+
 results - the machine learning algorithm with the highest accuracy score
+
 report - a comprehensive writeup of what has been done throughout the project
+
 src - the ipynb file containing the full machine learning pipeline
